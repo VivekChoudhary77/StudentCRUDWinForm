@@ -1,0 +1,11 @@
+C:\Users\AP0NA63\source\repos\StudentCRUDApplication\StudentCRUDApplication\bin\Debug\StudentCRUDApplication.exe.config
+C:\Users\AP0NA63\source\repos\StudentCRUDApplication\StudentCRUDApplication\bin\Debug\StudentCRUDApplication.exe
+C:\Users\AP0NA63\source\repos\StudentCRUDApplication\StudentCRUDApplication\bin\Debug\StudentCRUDApplication.pdb
+C:\Users\AP0NA63\source\repos\StudentCRUDApplication\StudentCRUDApplication\obj\Debug\StudentCRUDApplication.csproj.AssemblyReference.cache
+C:\Users\AP0NA63\source\repos\StudentCRUDApplication\StudentCRUDApplication\obj\Debug\StudentCRUDApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\AP0NA63\source\repos\StudentCRUDApplication\StudentCRUDApplication\obj\Debug\StudentCRUDApplication.Form1.resources
+C:\Users\AP0NA63\source\repos\StudentCRUDApplication\StudentCRUDApplication\obj\Debug\StudentCRUDApplication.Properties.Resources.resources
+C:\Users\AP0NA63\source\repos\StudentCRUDApplication\StudentCRUDApplication\obj\Debug\StudentCRUDApplication.csproj.GenerateResource.cache
+C:\Users\AP0NA63\source\repos\StudentCRUDApplication\StudentCRUDApplication\obj\Debug\StudentCRUDApplication.csproj.CoreCompileInputs.cache
+C:\Users\AP0NA63\source\repos\StudentCRUDApplication\StudentCRUDApplication\obj\Debug\StudentCRUDApplication.exe
+C:\Users\AP0NA63\source\repos\StudentCRUDApplication\StudentCRUDApplication\obj\Debug\StudentCRUDApplication.pdb

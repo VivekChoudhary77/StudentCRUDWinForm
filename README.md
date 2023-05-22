@@ -27,17 +27,17 @@ An Ado.NET Windows Forms Application that Performs CRUD(Create,Read,Update,Delet
 - _Adding Values in the textbar input fields(**C**). After clicking on ADD button values will be added to the Database also._
 ![alt_text](https://github.com/VivekChoudhary77/StudentCRUDWinForm/blob/main/images/img2.jpg)
 
-- _Shows a Message after successfully Inserting a value (MessageBox)_
+- _Shows a Message after successfully Inserting a value (MessageBox)._
 ![alt_text](https://github.com/VivekChoudhary77/StudentCRUDWinForm/blob/main/images/img3.jpg)
 
-- _Can be seen the values is showing and added to the Database also_
+- _Can be seen the values is showing and added to the Database also._
 ![alt_text](https://github.com/VivekChoudhary77/StudentCRUDWinForm/blob/main/images/img4.jpg)
 
-- _Performing Delete(**D**) Operation by clicking on DELETE buttton_
+- _Performing Delete(**D**) Operation by clicking on DELETE buttton._
 ![alt_text](https://github.com/VivekChoudhary77/StudentCRUDWinForm/blob/main/images/img5.jpg)
 
-- _Performing Update(**U**) Opertation by Double Clicking any specific row the values will automatically fetched into all textbox fields_
+- _Performing Update(**U**) Opertation by Double Clicking any specific row the values will automatically fetched into all textbox fields._
 ![alt_text](https://github.com/VivekChoudhary77/StudentCRUDWinForm/blob/main/images/img6.jpg)
 
-- _Values Updated successfully after clicking on EDIT button_
+- _Values Updated successfully after clicking on EDIT button._
 ![alt_text](https://github.com/VivekChoudhary77/StudentCRUDWinForm/blob/main/images/img7.jpg)
